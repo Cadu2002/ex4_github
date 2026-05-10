@@ -1,0 +1,6 @@
+[submodule "lib/exercise_git_reset_and_revert"]
+	path = lib/exercise_git_reset_and_revert
+	url = https://github.com/Cadu2002/exercise_git_reset_and_revert
+[submodule "lib/exercise_git_rebase"]
+	path = lib/exercise_git_rebase
+	url = https://github.com/Cadu2002/exercise_git_rebase
